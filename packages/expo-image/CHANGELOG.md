@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- [iOS] Added `generateBlurhashAsync` function. ([#26430](https://github.com/expo/expo/pull/26430) by [@aleqsio](https://github.com/aleqsio))
+
 ### 🐛 Bug fixes
 
 - Fixed ResizeObserver attaching on every image transition. ([#25819](https://github.com/expo/expo/pull/25819) by [@aleqsio](https://github.com/aleqsio))
