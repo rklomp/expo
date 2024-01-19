@@ -120,9 +120,9 @@ export async function getTemplateAsync(): Promise<IBSplashScreenDocument> {
                     userLabel="SplashScreenBackground"
                   >
                     <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                   </imageView>
                 </subviews>
-                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                 <constraints>
                   <constraint firstItem="EXPO-SplashScreenBackground" firstAttribute="top" secondItem="EXPO-ContainerView" secondAttribute="top" id="1gX-mQ-vu6"/>
                   <constraint firstItem="EXPO-SplashScreenBackground" firstAttribute="leading" secondItem="EXPO-ContainerView" secondAttribute="leading" id="6tX-OG-Sck"/>
