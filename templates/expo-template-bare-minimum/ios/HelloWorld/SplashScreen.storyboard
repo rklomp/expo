@@ -51,6 +51,7 @@
                 userLabel="SplashScreenBackground"
               >
                 <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
               </imageView>
               <imageView
                 clipsSubviews="YES"
